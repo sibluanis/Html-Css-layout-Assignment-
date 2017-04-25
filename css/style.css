@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.containner{
+	    width: 1400px;
+    height: 800px;
+    background: seagreen;
+    margin: 0 auto;
+}
+
+.menu{   
+ background: #1e503e;
+    overflow: hidden;}
+
+ul{
+	margin: 0;
+    padding: 0;
+
+}
+li{
+	list-style: none;
+    float: left;
+}
+a{color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    display: block;
+    text-transform: uppercase;}
+a:hover{
+	    background: aliceblue;
+    color: #236b43;
+}
+
+
+.main-contant{
+	width: 100%;
+    height: 600px;
+}
+
+
+.left{
+	width: 70%;
+    height: 600px;
+    background: #b1a6a6;
+    float: left;
+}
+.one{
+	    width: 70%;
+    height: 200px;
+    background: green;
+    float: left;
+}
+.two{
+	width: 30%;
+    height: 200px;
+    background: orange;
+    float: left;
+}
+.thre{
+	width: 33.33%;
+    height: 200px;
+    background: antiquewhite;
+    float: left;
+}
+
+.right{ 
+   width: 30%;
+    height: 600px;
+    background: yellow;
+    float: left;}
+.four{
+	width: 100%;
+    height: 300px;
+    background: aquamarine;
+    float: left;
+}
+
+
+.copyright{
+	width: 100%;
+    height: 50px;
+
+}
+
+
